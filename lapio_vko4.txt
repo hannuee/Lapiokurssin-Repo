@@ -1,6 +1,6 @@
 testi 1
 testi 2
-testi 3
+terveisiä GitHubista
 testi 4
 Rivi joka ei ole local:illa testi
 TÄÄ texti ei oo localissa.
